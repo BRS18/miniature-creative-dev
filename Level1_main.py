@@ -18,8 +18,6 @@ def main():
    purchase_orders = getPurchaseOrders()
    
    ##Output to CSV files
-   #demand_inventory.to_csv(r'C:\Users\SarayuR\OneDrive - USEReady Technology Private Limited\My Work\McKinsey\SC Insights\Level1Analysis\Level1AnalyisFinalOutput.csv',index=False)
-   #purchase_orders.to_csv(r'C:\Users\SarayuR\OneDrive - USEReady Technology Private Limited\My Work\McKinsey\SC Insights\Level1Analysis\PurchaseOrdersFinalOutput.csv',index=False)
    
    print("Execution is Completed")
    
